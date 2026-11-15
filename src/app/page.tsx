@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="rBh_elZPbVUpYC966L4aOqWSUsQJaGPjzBpN9ELLudM" />
 import Link from "next/link";
 import { CategoryShowcaseCard } from "@/components/CategoryShowcaseCard";
 import { SolutionCard } from "@/components/SolutionCard";
