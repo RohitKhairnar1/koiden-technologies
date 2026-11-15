@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="rBh_elZPbVUpYC966L4aOqWSUsQJaGPjzBpN9ELLudM" />
 import Link from "next/link";
 import { CategoryShowcaseCard } from "@/components/CategoryShowcaseCard";
 import { SolutionCard } from "@/components/SolutionCard";
@@ -139,7 +138,7 @@ const resourceCategories = [
       "Practical engineering references, calculations and procurement guidance for specification and sourcing.",
   },
 ];
-
+<meta name="google-site-verification" content="rBh_elZPbVUpYC966L4aOqWSUsQJaGPjzBpN9ELLudM" />
 export default function HomePage() {
   return (
     <>
